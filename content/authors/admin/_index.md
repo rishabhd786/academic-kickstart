@@ -63,4 +63,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+- I am a Computer Science Undergraduate at Indian Institute of technology Kanpur, currently in my 1st year. I am highly interested in fields like Machine learning,Deep learning and Computer Vision. I am also a software trainee in TEAM AUV IITK working in the computer vision subteam.I am also a secretary at Electronics club IITK.
