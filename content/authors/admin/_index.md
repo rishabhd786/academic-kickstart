@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "rishabhd@iitk.ac.in".
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/rishabh.dugaye.3/
 - icon: github
   icon_pack: fab
   link: https://github.com/rishabhd786
