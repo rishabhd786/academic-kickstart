@@ -26,6 +26,7 @@ interests:
 - Computer Vision
 
 education:
+courses:
   - course: B.tech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2019-2023
