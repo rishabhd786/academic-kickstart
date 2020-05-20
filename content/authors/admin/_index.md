@@ -27,12 +27,10 @@ interests:
 
 education:
   courses:
-  - course: B.tech in Computer Science and Engineering
+  - course: B.Tech in Computer Science and Engineering 
     institution: Indian Institute of Technology Kanpur
-    year: 2019-2023
-  - course: AISSCE
-    institution: International Public School, Bhopal
-    year: 2019
+    year: 2023(expected)
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
